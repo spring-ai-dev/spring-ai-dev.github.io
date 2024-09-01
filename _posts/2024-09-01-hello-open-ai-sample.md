@@ -11,4 +11,4 @@ author: Thomas Risberg
 ---
 
 {: .box-success}
-My first Spring AI sample app using OpenAI based on Chapter 1 from Craig Walls' book [Spring AI in Action](https://www.manning.com/books/spring-ai-in-action). Check out the sample [repo](https://github.com/spring-ai-dev/hello-open-ai).
+My first Spring AI sample app using OpenAI based on Chapter 1 from Craig Walls' book [Spring AI in Action](https://www.manning.com/books/spring-ai-in-action). Check out the sample repo at: https://github.com/spring-ai-dev/hello-open-ai.
