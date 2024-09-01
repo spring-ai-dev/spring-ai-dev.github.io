@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello OpenAI Sample App"
-subtitle: A simple "Hello World" stype sample app
+subtitle: A simple "Hello World" style sample app
 gh-repo: spring-ai-dev/hello-open-ai
 gh-badge: [star, fork, follow]
 tags: [spring-ai, sample, app]
